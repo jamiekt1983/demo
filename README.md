@@ -1,2 +1,2 @@
 # demo
-Just a demo repository
+RESTAPI Demo repository
